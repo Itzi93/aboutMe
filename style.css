@@ -1,0 +1,47 @@
+body{
+  background: #3C7F50;
+  border: 5px dashed white;
+}
+div{
+  display: inline;
+}
+h1{
+  color: #DBC971;
+  font-family: 'Delius Unicase', cursive;
+  font-size: 100px;
+  text-align: center;
+  display: inline;
+  margin: 0px 30px 100px 20px;
+}
+img{
+  display: inline;
+  margin: 15px 20px -15px 20px;
+  border: 2px solid;
+  border-radius: 120px;
+  border-color: white;
+}
+ul{
+  text-align: center;
+  font-size: 25px;
+  margin: 20px 0;
+  background-color: #DBC971;
+}
+li{
+  display: inline;
+  margin: 10px;
+  color: #3C7F50;
+  font-family: monospace;
+}
+p{
+  text-align: center;
+  color: #DBFFC2;
+  font-size: 23px;
+  font-family: 'Patrick Hand', cursive;
+  margin: 0 30px;
+}
+a:link{
+  color: #3C7F50;
+}
+a:visited{
+  color: #3C7F50;
+}
